@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["Paris", "Berlin", "Madrid", "Rome"],
+    "answer": 0
+  },
+  {
+    "question": "What is the largest planet in our Solar System?",
+    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "answer": 2
+  },
+  {
+    "question": "What is the smallest prime number?",
+    "options": ["1", "2", "3", "5"],
+    "answer": 1
+  },
+  {
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "options": ["Harper Lee", "Mark Twain", "Ernest Hemingway", "F. Scott Fitzgerald"],
+    "answer": 0
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Au", "Ag", "Pb", "Fe"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": ["Kyoto", "Osaka","Tokyo", "Nagoya"],
+    "answer": 2
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Claude Monet"],
+    "answer": 0
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Jupiter", "Saturn","Mars"],
+    "answer": 3
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Gold","Diamond" ,"Iron", "Platinum"],
+    "answer": 1
+  },
+  {
+    "question": "What is the main ingredient in traditional Japanese miso soup?",
+    "options": ["Soybeans", "Rice", "Wheat", "Barley"],
+    "answer": 0
+  }
+]
